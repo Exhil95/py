@@ -3,3 +3,4 @@ ilosc_lalek_kasi = 15
 
 mojZnak = 'K'
 
+nowy = pi +  ilosc_lalek_kasi
