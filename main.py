@@ -6,3 +6,4 @@ mojZnak = 'K'
 nowy = pi +  ilosc_lalek_kasi
 
 print(nowy)
+print(nowy)
